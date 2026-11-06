@@ -4,10 +4,17 @@
   Competitive Programmer · CS Student · Aspiring Software Developer
 </p>
 
+## 🌐 Connect With Me
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://github.com/mehadi977"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/md-mehadi-hasan-3558aa437/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/mehadi977"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/mehadi977"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://leetcode.com/u/mehadi977/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://atcoder.jp/users/mehadi977"><img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
 </p>
 
 ---
