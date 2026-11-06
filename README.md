@@ -1,66 +1,48 @@
-<h1 align="center">Mehadi Hasan</h1>
+<h1 align="center">Hi, I'm Mehadi Hasan 👋</h1>
 
 <p align="center">
-  <b>Competitive Programmer · Computer Science & Technology Student</b><br/>
-  Solving problems, building foundations in algorithms, and growing into a software developer.
+  Competitive Programmer · CS Student · Aspiring Software Developer
 </p>
 
 <p align="center">
-  <a href="https://github.com/mehadi977">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/mehadi977">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/mehadi977/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://mehadi977.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  <a href="https://github.com/mehadi977"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/mehadi977"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/mehadi977/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://mehadi977.github.io"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
 
-## About
+## 🧭 Roadmap
 
-I am a Computer Science & Technology student based in Dhaka, Bangladesh. I enjoy turning hard problems into clean, efficient solutions, and I am steadily moving from competitive programming toward building real software.
-
-| | |
-|---|---|
-| **Primary language** | C++ |
-| **Focus** | Data Structures, Algorithms, Problem Solving |
-| **Currently learning** | Python OOP, Database Management |
-| **Next goal** | Building software development projects |
+| Stage | Focus |
+|:---:|---|
+| ✅ **Done** | C++ · Problem Solving · DSA |
+| 🔄 **Now** | Python OOP · Database Management |
+| 🚀 **Next** | Software Development Projects |
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## Featured Repositories
+## 📚 Repositories
 
-| Repository | Description |
+| Repository | Focus |
 |---|---|
-| [CP Learning Journey](https://github.com/mehadi977/CP-Learning-Journey) | Competitive programming solutions and notes across multiple platforms |
-| [OOP and Python Programming](https://github.com/mehadi977/OOP-and-Python-Programming) | Python fundamentals and object-oriented programming |
-| DSA Foundation | Core data structures and algorithms implementations |
-| OOP Project | Practical Python OOP projects |
+| [CP Learning Journey](https://github.com/mehadi977/CP-Learning-Journey) | Competitive Programming |
+| [OOP and Python Programming](https://github.com/mehadi977/OOP-and-Python-Programming) | Python & OOP |
+| DSA Foundation | Data Structures & Algorithms |
+| OOP Project | Python Projects |
 
 ---
 
-## Competitive Programming
-
-I practice regularly on **Codeforces**, **CodeChef**, **LeetCode**, **CSES**, and **AtCoder**, and document what I learn in my CP Learning Journey repository.
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
@@ -77,6 +59,4 @@ I practice regularly on **Codeforces**, **CodeChef**, **LeetCode**, **CSES**, an
 
 ---
 
-<p align="center">
-  <i>"Learn, Build, Improve, Repeat."</i>
-</p>
+<p align="center"><i>"Learn, Build, Improve, Repeat."</i></p>
