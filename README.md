@@ -1,8 +1,9 @@
+
 # Hi, I'm Mehadi Hasan 👋
 
 ### Competitive Programmer | Aspiring Software Developer
 
-Computer Science & Technology Student passionate about problem-solving and software development.
+Computer Science & Technology student passionate about problem-solving and software development.
 
 - 💻 Primary Language: C++
 - 🌱 Currently Learning: Python OOP & Database Management
@@ -21,21 +22,12 @@ Computer Science & Technology Student passionate about problem-solving and softw
 
 ## 📚 Learning & Projects
 
-| Area | Focus |
+| Repository | Description |
 |---|---|
-| OOP & Python Programming | Object-Oriented Programming |
-| Competitive Programming | Problem Solving & Algorithms |
-| OOP Projects | Practical Python Projects |
+| [OOP and Python Programming](https://github.com/mehadi977/OOP-and-Python-Programming) | Python & Object-Oriented Programming |
+| [CP Learning Journey](https://github.com/mehadi977/CP-Learning-Journey) | Competitive Programming & Problem Solving |
+| OOP Project | Practical Python OOP Projects |
 | DSA Foundation | Data Structures & Algorithms |
-| Database Management | SQL & Database Concepts |
-| Software Development | Upcoming Projects |
-
-### 📂 My Repositories
-
-- [CP Learning Journey](https://github.com/mehadi977/CP-Learning-Journey)
-- [OOP and Python Programming](https://github.com/mehadi977/OOP-and-Python-Programming)
-- [LeetCode](https://github.com/mehadi977/LeetCode)
-- [XPSC - Topicwise STL](https://github.com/mehadi977/XPSC-08--Week-2--Topicwise--STL---1)
 
 ---
 
@@ -55,7 +47,6 @@ Computer Science & Technology Student passionate about problem-solving and softw
 ## 💻 Language Statistics
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </p>
 
