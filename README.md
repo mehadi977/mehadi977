@@ -1,61 +1,80 @@
-# Hi there, I'm Mehadi Hasan 👋
+# Hi, I'm Mehadi Hasan 👋
 
-### Competitive Programmer | C++ Developer | Python Learner
+### Competitive Programmer | Aspiring Software Developer
 
-I'm a Computer Science & Technology student passionate about problem-solving, programming, and software development.
+Computer Science & Technology Student passionate about problem-solving and software development.
 
-- 🔭 Currently working on **Competitive Programming**
-- 🌱 Learning **Python OOP and Database Management**
-- 💻 Primary Language: **C++**
-- 📚 Practicing Data Structures & Algorithms
-- 🎯 Goal: Become a better problem solver and software developer.
+- 💻 Primary Language: C++
+- 🌱 Currently Learning: Python OOP & Database Management
+- 🧠 Focus: Data Structures, Algorithms & Problem Solving
+- 🚀 Next Goal: Building Software Development Projects
 
 ---
 
-
-
-### 🛠️ Languages & Technologies
+## 🛠️ Languages & Technologies
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="600" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,vscode" />
 </p>
-
-
 
 ---
 
-### 📂 My Learning & Projects
+## 📚 Learning & Projects
 
-| Repository | Description |
+| Area | Focus |
 |---|---|
-| OOP and Python Programming | Learning Python and Object-Oriented Programming |
-| CP Learning Journey | My Competitive Programming journey |
-| OOP Project | Practical projects using Python OOP |
-| DSA Foundation | Data Structures and Algorithms fundamentals |
+| OOP & Python Programming | Object-Oriented Programming |
+| Competitive Programming | Problem Solving & Algorithms |
+| OOP Projects | Practical Python Projects |
+| DSA Foundation | Data Structures & Algorithms |
+| Database Management | SQL & Database Concepts |
+| Software Development | Upcoming Projects |
+
+### 📂 My Repositories
+
+- [CP Learning Journey](https://github.com/mehadi977/CP-Learning-Journey)
+- [OOP and Python Programming](https://github.com/mehadi977/OOP-and-Python-Programming)
+- [LeetCode](https://github.com/mehadi977/LeetCode)
+- [XPSC - Topicwise STL](https://github.com/mehadi977/XPSC-08--Week-2--Topicwise--STL---1)
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehadi977&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehadi977&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mehadi977&theme=tokyonight&hide_border=true" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 💻 Language Statistics
 
-- GitHub: [@mehadi977](https://github.com/mehadi977)
-- Codeforces: [@mehadi977](https://codeforces.com/profile/mehadi977)
-- LeetCode: [@mehadi977](https://leetcode.com/u/mehadi977/)
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+</p>
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/mehadi977">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/mehadi977">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/mehadi977/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
 <p align="center">
-  <i>"Consistency is the key to becoming a better programmer."</i>
+  <i>"Learn, Build, Improve, Repeat."</i>
 </p>
