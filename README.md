@@ -14,8 +14,8 @@ I'm a Computer Science & Technology student passionate about problem-solving, pr
 
 ### 🛠️ Languages & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,vscode" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehadi977&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
