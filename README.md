@@ -13,6 +13,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+</p>
+
+---
+
 ## 🧭 Roadmap
 
 | Stage | Focus |
@@ -41,12 +49,6 @@
 | OOP Project | Python Projects |
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
-</p>
 
 <p align="center">
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
