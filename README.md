@@ -45,18 +45,18 @@
 |---|---|
 | [CP Learning Journey](https://github.com/mehadi977/CP-Learning-Journey) | Competitive Programming |
 | [OOP and Python Programming](https://github.com/mehadi977/OOP-and-Python-Programming) | Python & OOP |
-| DSA Foundation | Data Structures & Algorithms |
-| OOP Project | Python Projects |
+| [DSA Foundation](https://github.com/mehadi977/DSA-Foundations) | Data Structures & Algorithms |
+| [OOP Project](https://github.com/mehadi977/Python-OOP-Projects) | Python Projects |
 
 ---
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 </p>
 
 ---
