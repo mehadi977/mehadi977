@@ -24,10 +24,10 @@ I'm a Computer Science & Technology student passionate about problem-solving, pr
 
 | Repository | Description |
 |---|---|
-| [CP-Learning-Journey](https://github.com/mehadi977/CP-Learning-Journey) | My Competitive Programming journey |
-| [OOP-and-Python-Programming](https://github.com/mehadi977/OOP-and-Python-Programming) | Python OOP practice and projects |
-| [LeetCode](https://github.com/mehadi977/LeetCode) | DSA problem solutions |
-| [XPSC-08](https://github.com/mehadi977/XPSC-08--Week-2--Topicwise--STL---1) | Topic-wise C++ practice |
+| OOP and Python Programming | Learning Python and Object-Oriented Programming |
+| CP Learning Journey | My Competitive Programming journey |
+| OOP Project | Practical projects using Python OOP |
+| DSA Foundation | Data Structures and Algorithms fundamentals |
 
 ---
 
