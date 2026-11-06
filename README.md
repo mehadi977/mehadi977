@@ -1,37 +1,66 @@
+<h1 align="center">Mehadi Hasan</h1>
 
-# Hi, I'm Mehadi Hasan 👋
+<p align="center">
+  <b>Competitive Programmer · Computer Science & Technology Student</b><br/>
+  Solving problems, building foundations in algorithms, and growing into a software developer.
+</p>
 
-### Competitive Programmer | Aspiring Software Developer
-
-Computer Science & Technology student passionate about problem-solving and software development.
-
-- 💻 Primary Language: C++
-- 🌱 Currently Learning: Python OOP & Database Management
-- 🧠 Focus: Data Structures, Algorithms & Problem Solving
-- 🚀 Next Goal: Building Software Development Projects
+<p align="center">
+  <a href="https://github.com/mehadi977">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/mehadi977">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/mehadi977/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://mehadi977.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Languages & Technologies
+## About
 
-<p align="center">
+I am a Computer Science & Technology student based in Dhaka, Bangladesh. I enjoy turning hard problems into clean, efficient solutions, and I am steadily moving from competitive programming toward building real software.
+
+| | |
+|---|---|
+| **Primary language** | C++ |
+| **Focus** | Data Structures, Algorithms, Problem Solving |
+| **Currently learning** | Python OOP, Database Management |
+| **Next goal** | Building software development projects |
+
+---
+
+## Tech Stack
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 📚 Learning & Projects
+## Featured Repositories
 
 | Repository | Description |
 |---|---|
-| [OOP and Python Programming](https://github.com/mehadi977/OOP-and-Python-Programming) | Python & Object-Oriented Programming |
-| [CP Learning Journey](https://github.com/mehadi977/CP-Learning-Journey) | Competitive Programming & Problem Solving |
-| OOP Project | Practical Python OOP Projects |
-| DSA Foundation | Data Structures & Algorithms |
+| [CP Learning Journey](https://github.com/mehadi977/CP-Learning-Journey) | Competitive programming solutions and notes across multiple platforms |
+| [OOP and Python Programming](https://github.com/mehadi977/OOP-and-Python-Programming) | Python fundamentals and object-oriented programming |
+| DSA Foundation | Core data structures and algorithms implementations |
+| OOP Project | Practical Python OOP projects |
 
 ---
 
-## 📊 GitHub Overview
+## Competitive Programming
+
+I practice regularly on **Codeforces**, **CodeChef**, **LeetCode**, **CSES**, and **AtCoder**, and document what I learn in my CP Learning Journey repository.
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
@@ -42,29 +71,11 @@ Computer Science & Technology student passionate about problem-solving and softw
   <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 </p>
 
----
-
-## 💻 Language Statistics
-
 <p align="center">
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </p>
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/mehadi977">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/mehadi977">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/mehadi977/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
 
 <p align="center">
   <i>"Learn, Build, Improve, Repeat."</i>
