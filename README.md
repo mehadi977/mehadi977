@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Mehadi Hasan 👋</h1>
 
-<p align="center">
-  Competitive Programmer · CS Student · Aspiring Software Developer
-</p>
 
 ---
 
